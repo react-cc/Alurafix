@@ -1,0 +1,23 @@
+.category {
+    padding: 1.5rem;
+    margin-top: 1.5rem;
+  }
+  
+  .title {
+    display: inline-block;
+    font-size: 1.25rem;
+    font-weight: 700;
+    color: #fff;
+    padding: 0.75rem 1.5rem;
+    border-radius: 4px;
+    margin-bottom: 1.5rem;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+  }
+  
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 1.5rem;
+    margin-top: 1.5rem;
+  }

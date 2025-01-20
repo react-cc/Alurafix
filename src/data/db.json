@@ -1,0 +1,27 @@
+[
+    {
+      "title": "Front End",
+      "cards": [
+        { "id": 1, "title": "¿Cuándo usar LET, VAR y CONST?", "image":  "/img/category/imagen1.webp"},
+        { "id": 2, "title": "¿Qué es JavaScript?", "image": "/img/category/imagen2.webp" },
+        { "id": 3, "title": "Equipo Front End", "image": "/img/category/imagen3.webp" }
+      ]
+    },
+    {
+      "title": "Back End",
+      "cards": [
+        { "id": 4, "title": "Spring Framework", "image": "/img/category/imagen4.webp" },
+        { "id": 5, "title": "¿Qué es SQL y NoSQL?", "image": "/img/category/imagen5.webp" },
+        { "id": 6, "title": "Conoce los ENUM", "image": "/img/category/imagen6.webp" }
+      ]
+    },
+    {
+      "title": "Innovación y Gestión",
+      "cards": [
+        { "id": 7, "title": "¿Qué son las soft skills?", "image": "/img/category/imagen7.webp" },
+        { "id": 8, "title": "Las 7 soft skills más deseadas", "image": "/img/category/imagen8.webp" },
+        { "id": 9, "title": "Metodologías ágiles", "image": "/img/category/imagen9.webp" }
+      ]
+    }
+  ]
+  
